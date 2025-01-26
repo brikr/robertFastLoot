@@ -1,0 +1,6 @@
+## Interface: 110005
+## Title: robertFastLoot
+## Author: brik
+## Version: @project-version@
+
+robertFastLoot.lua
